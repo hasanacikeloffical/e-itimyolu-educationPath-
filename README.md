@@ -12,33 +12,33 @@ Bu proje, dönem sonu bitirme ödevi/hackathon teslimi amacıyla **Flutter** fra
 
 Uygulamanın arayüz tasarımlarına, kullanıcı deneyimi (UX) adımlarına ve fonksiyonel özelliklerine aşağıdaki galerilerden göz atabilirsiniz.
 
-### 1. Karşılama ve Tanıtım (Onboarding) Ekranları
-Uygulama açılışında kullanıcıyı modern bir logo karşılar. Ardından uygulamanın temel vizyonunu (Öğrenme, Takip ve Hedefleme) anlatan dinamik tanıtım kartları sunulur.
+### 1. Karşılama Ekranı
+Uygulama açılışında kullanıcıyı modern bir logo karşılar. Ardından uygulamanın güzel bir hoşgeldin sayfası.
 
-| Açılış Ekranı | Öğren, Takip Et, Bağlan | Hedeflerine Ulaş |
+| Açılış Ekranı |
 | :---: | :---: | :---: |
-| <img src="assets/ekran_goruntuleri/1_splash.jpg" width="220"> | <img src="assets/ekran_goruntuleri/2_onboarding1.jpg" width="220"> | <img src="assets/ekran_goruntuleri/3_onboarding2.jpg" width="220"> |
+|  <img width="720" height="1612" alt="Screenshot_20260516-115435" src="https://github.com/user-attachments/assets/904b4e83-410c-431b-8f29-79e5055ff12d" /> |
 
 ### 2. Kullanıcı Girişi ve Üyelik İşlemleri
 Kullanıcıların güvenli bir şekilde sisteme dahil olabilmesi için tasarlanmış kişiselleştirilmiş hoş geldin ekranı ve modern giriş yapma/kayıt olma formu.
 
 | Karşılama Paneli | Hesap Girişi / Kayıt |
 | :---: | :---: |
-| <img src="assets/ekran_goruntuleri/4_welcome.jpg" width="220"> | <img src="assets/ekran_goruntuleri/5_login.jpg" width="220"> |
+| <img width="720" height="1612" alt="Screenshot_20260516-115521" src="https://github.com/user-attachments/assets/04cecefa-950e-4ba0-b2db-1cca3d8f0a9c" /> | <img width="720" height="1612" alt="Screenshot_20260516-115523" src="https://github.com/user-attachments/assets/926916e5-4987-42af-9e6d-c1f85f33ee26" /> |
 
-### 3. Ana Panel, Keşfet ve Eğitim Blogları
-Giriş yapan kullanıcıyı karşılayan kişisel özet ekranı, kategorilere ayrılmış ders/konu keşif alanı ve güncel makalelerin yer aldığı zengin blog sistemi.
+### 3. Ürün Sayfası
+Giriş yapan kullanıcıyı karşılayan ürünler sayfası, ürün üzerine tıklayınca çıkan detay sayfası vs.
 
-| Kullanıcı Paneli | Dersleri Keşfet | Eğitim Blogları |
+| Ürünler Sayfası |
 | :---: | :---: | :---: |
-| <img src="assets/ekran_goruntuleri/6_dashboard.jpg" width="220"> | <img src="assets/ekran_goruntuleri/7_kesfet.jpg" width="220"> | <img src="assets/ekran_goruntuleri/8_blog.jpg" width="220"> |
+|<img width="720" height="1612" alt="Screenshot_20260516-115438" src="https://github.com/user-attachments/assets/e09a18d5-871b-4b14-9ebf-00cf4b75ec31" />|
 
-### 4. Topluluk Sohbeti ve İlerleme İstatistikleri
+### 4. Hackatlon ve Bootcamp Sayfaları
 Öğrencilerin birbiriyle fikir alışverişi yapabileceği canlı mesajlaşma odası ve öğrenme verilerini görsel grafiklerle sunan performans takip ekranı.
 
-| Topluluk Odası (Chat) | İlerleme ve Grafik Takibi |
+| Hackatlon ve Bootcamp |
 | :---: | :---: |
-| <img src="assets/ekran_goruntuleri/9_chat.jpg" width="220"> | <img src="assets/ekran_goruntuleri/10_profil.jpg" width="220"> |
+|<img width="720" height="1612" alt="Screenshot_20260516-115448" src="https://github.com/user-attachments/assets/26afd584-ac11-4722-826c-cbcea9fc99a4" />| |<img width="720" height="1612" alt="Screenshot_20260516-115453" src="https://github.com/user-attachments/assets/25d5a5a5-28e6-4bf5-ab22-15df6adf1cb8" />|
 
 ---
 
