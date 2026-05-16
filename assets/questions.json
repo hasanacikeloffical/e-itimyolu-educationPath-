@@ -1,0 +1,72 @@
+[
+  {
+    "type": "fill_blank",
+    "question": "Bir sayının çift olup olmadığını kontrol et",
+    "code": "if (x % __ == 0) { print('Çift'); }",
+    "answers": ["2"],
+    "level": 1
+  },
+  {
+    "type": "fill_blank",
+    "question": "0'dan 5'e kadar döngü",
+    "code": "for (int i = 0; i < __; i++) { print(i); }",
+    "answers": ["5"],
+    "level": 1
+  },
+  {
+    "type": "fill_blank",
+    "question": "Listeyi dolaş",
+    "code": "list.__((e) => print(e));",
+    "answers": ["forEach"],
+    "level": 2
+  },
+  {
+    "type": "write_code",
+    "question": "0'dan 3'e kadar sayıları yazdır",
+    "code": "",
+    "answers": ["for (int i = 0; i < 3; i++) { print(i); }"],
+    "level": 1
+  },
+  {
+    "type": "write_code",
+    "question": "Bir sayının karesini al",
+    "code": "",
+    "answers": ["int sonuc = x * x;"],
+    "level": 1
+  },
+  {
+    "type": "fill_blank",
+    "question": "Fonksiyon tanımla",
+    "code": "void myFunc() { __; }",
+    "answers": ["print('Hello')"],
+    "level": 1
+  },
+  {
+    "type": "fill_blank",
+    "question": "Liste oluştur",
+    "code": "List<int> list = __;",
+    "answers": ["[]"],
+    "level": 1
+  },
+  {
+    "type": "fill_blank",
+    "question": "Null kontrolü",
+    "code": "if (x != __) { print(x); }",
+    "answers": ["null"],
+    "level": 2
+  },
+  {
+    "type": "fill_blank",
+    "question": "Return kullan",
+    "code": "return __;",
+    "answers": ["x"],
+    "level": 1
+  },
+  {
+    "type": "fill_blank",
+    "question": "String birleştirme",
+    "code": "String s = 'Hello ' + __;",
+    "answers": ["name"],
+    "level": 1
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "995496544985",
+    "project_id": "educationpath-6e767",
+    "storage_bucket": "educationpath-6e767.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995496544985:android:3837f8d715d9aa36d54cc8",
+        "android_client_info": {
+          "package_name": "com.educationpath.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995496544985-6corhi2asq2sr0akdu6797nhk5kn7pt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_t6WEFfOUqcGTqxhcS359GHu40nJFzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995496544985-6corhi2asq2sr0akdu6797nhk5kn7pt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995496544985-jr478ms9v79f5pf1bds9joipfap9g8ol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.educationPath"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995496544985:android:23a407be4aaa8fded54cc8",
+        "android_client_info": {
+          "package_name": "com.example.education_path"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995496544985-6corhi2asq2sr0akdu6797nhk5kn7pt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb_t6WEFfOUqcGTqxhcS359GHu40nJFzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995496544985-6corhi2asq2sr0akdu6797nhk5kn7pt0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "995496544985-jr478ms9v79f5pf1bds9joipfap9g8ol.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.educationPath"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
