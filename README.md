@@ -59,4 +59,4 @@ Bu kaynak kodları kendi bilgisayarınızda çalıştırmak, emülatörde test e
 
 1. **Projeyi bilgisayarınıza indirin veya klonlayın:**
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
+   git clone [https://github.com/hasanacikeloffical/e-itimyolu-educationPath-.git](https://github.com/hasanacikeloffical/e-itimyolu-educationPath-.git)
