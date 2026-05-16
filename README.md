@@ -36,9 +36,7 @@ Giriş yapan kullanıcıyı karşılayan ürünler sayfası, ürün üzerine tı
 ### 4. Hackatlon ve Bootcamp Sayfaları
 Öğrencilerin birbiriyle fikir alışverişi yapabileceği canlı mesajlaşma odası ve öğrenme verilerini görsel grafiklerle sunan performans takip ekranı.
 
-| Hackatlon ve Bootcamp |
-| :---: | :---: |
-|<img width="720" height="1612" alt="Screenshot_20260516-115448" src="https://github.com/user-attachments/assets/26afd584-ac11-4722-826c-cbcea9fc99a4" />| |<img width="720" height="1612" alt="Screenshot_20260516-115453" src="https://github.com/user-attachments/assets/25d5a5a5-28e6-4bf5-ab22-15df6adf1cb8" />|
+| <img width="720" height="1612" alt="Screenshot_20260516-115448" src="https://github.com/user-attachments/assets/26afd584-ac11-4722-826c-cbcea9fc99a4" />| |<img width="720" height="1612" alt="Screenshot_20260516-115453" src="https://github.com/user-attachments/assets/25d5a5a5-28e6-4bf5-ab22-15df6adf1cb8" /> |
 
 ---
 
