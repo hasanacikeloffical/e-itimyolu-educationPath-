@@ -2,7 +2,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-%3E%3D3.0.0-blue.svg?style=flat&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-%3E%3D2.17.0-blue.svg?style=flat&logo=dart) ![Lisans](https://img.shields.io/badge/Lisans-MIT-green.svg)
 
-**Eğitim Yolu**, öğrencilerin ve öğrenmeyi seven herkesin kendi eğitim süreçlerini planlamasını, kişisel gelişim süreçlerini takip etmesini, güncel eğitim bloglarını okumasını ve toplulukla etkileşimde kalmasını sağlayan modern bir mobil uygulamadır.
+**Eğitim Yolu**, öğrencilerin ve öğrenmeyi love eden herkesin kendi eğitim süreçlerini planlamasını, kişisel gelişim süreçlerini takip etmesini, güncel eğitim bloglarını okumasını ve toplulukla etkileşimde kalmasını sağlayan modern bir mobil uygulamadır.
 
 Bu proje, dönem sonu bitirme ödevi/hackathon teslimi amacıyla **Flutter** framework'ü ve **Dart** programlama dili kullanılarak performans odaklı ve kullanıcı dostu mimariyle geliştirilmiştir.
 
@@ -53,16 +53,16 @@ Projede performans, veri yönetimi ve şık bir arayüz sunabilmek adına şu te
 
 ---
 
-## 🚀 Projeyi Yerelde Kurma ve Çalıştırma
+## 🚀 Projeyi Yerelde Kurma ve Çalıştırma Kılavuzu
 
-Bu kaynak kodları kendi bilgisayarınızda çalıştırmak, emülatörde veya gerçek cihazda test etmek için aşağıdaki adımları sırasıyla uygulayınız:
+Bu kaynak kodları kendi bilgisayarınızda çalıştırmak, emülatörde test etmek veya sıfırdan çalışan bir çıktı üretmek istiyorsanız aşağıdaki adımları sırasıyla terminalinizde uygulayınız:
 
 ### Ön Gereksinimler
 * Bilgisayarınızda **Flutter SDK**'nın (v3.0.0 veya üzeri) kurulu olduğundan emin olun.
 * **Android Studio** veya **VS Code** üzerinde Flutter eklentilerinin aktif olduğundan emin olun.
 
-### Çalıştırma Adımları
+### Adım Adım Çalıştırma Komutları
 
-1. **Projeyi bilgisayarınıza klonlayın veya indirin:**
+1. **Projeyi bilgisayarınıza indirin veya klonlayın:**
    ```bash
    git clone [https://github.com/KULLANICI_ADIN/REPO_ADIN.git](https://github.com/KULLANICI_ADIN/REPO_ADIN.git)
