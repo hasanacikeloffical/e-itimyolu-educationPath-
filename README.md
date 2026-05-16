@@ -15,8 +15,6 @@ Uygulamanın arayüz tasarımlarına, kullanıcı deneyimi (UX) adımlarına ve 
 ### 1. Karşılama Ekranı
 Uygulama açılışında kullanıcıyı modern bir logo karşılar. Ardından uygulamanın güzel bir hoşgeldin sayfası.
 
-| Açılış Ekranı |
-| :---: | :---: | :---: |
 |  <img width="720" height="1612" alt="Screenshot_20260516-115435" src="https://github.com/user-attachments/assets/904b4e83-410c-431b-8f29-79e5055ff12d" /> |
 
 ### 2. Kullanıcı Girişi ve Üyelik İşlemleri
