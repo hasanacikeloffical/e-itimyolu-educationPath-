@@ -27,8 +27,6 @@ Kullanıcıların güvenli bir şekilde sisteme dahil olabilmesi için tasarlanm
 ### 3. Ürün Sayfası
 Giriş yapan kullanıcıyı karşılayan ürünler sayfası, ürün üzerine tıklayınca çıkan detay sayfası vs.
 
-| Ürünler Sayfası |
-| :---: | :---: | :---: |
 |<img width="720" height="1612" alt="Screenshot_20260516-115438" src="https://github.com/user-attachments/assets/e09a18d5-871b-4b14-9ebf-00cf4b75ec31" />|
 
 ### 4. Hackatlon ve Bootcamp Sayfaları
